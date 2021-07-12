@@ -32,6 +32,7 @@ namespace M4U1
 
                 Console.WriteLine("Ваш цвет cyan!");
             }
+            Console.ReadKey();
         }
     }
 }
